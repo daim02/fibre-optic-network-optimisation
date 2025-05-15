@@ -1,0 +1,15 @@
+Beijing, Tokyo, 2092
+Beijing, Seoul, 950
+Beijing, Hong Kong, 1950
+Beijing, Bangkok, 3700
+Beijing, New Delhi, 3600
+Tokyo, Seoul, 1150
+Tokyo, Hong Kong, 3000
+Tokyo, Bangkok, 4350
+Tokyo, New Delhi, 6000
+Seoul, Hong Kong, 2450
+Seoul, Bangkok, 4300
+Seoul, New Delhi, 4900
+Hong Kong, Bangkok, 2100
+Hong Kong, New Delhi, 4600
+Bangkok, New Delhi, 3200
